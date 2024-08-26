@@ -1,2 +1,2 @@
 Capstone project for bootcamp
-Creating a Purchase Request Systemp app
+Creating a web application of Purchase Request System
