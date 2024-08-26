@@ -19,8 +19,8 @@ VALUES
 ('P001', 'Baldor Specialty Foods', '55 Food Center Dr', 'Bronx', 'NY', '10474', '718-860-9000', 'info@baldorfood.com'),
 ('P002', 'D¡¯Artagnan', '600 Green Ln', 'Union', 'NJ', '07083', '877-858-0099', 'orders@dartagnan.com'),
 ('P003', 'The Chefs'' Warehouse', '240 Food Center Dr', 'Bronx', 'NY', '10474', '800-878-3247', 'chef@chefswarehouse.com'),
-('P004', 'Niman Ranch', '1765 W 121st Ave', 'Westminster', 'CO', '80302', '866-866-9432', 'customer_service@nimanranch.com'),
-('P005', 'La Brea Bakery', '6701 Center Drive Suite 850', 'Los Angeles', 'CA', '90045', '844-992-7747', 'info@labreabakery.com'),
+('P004', 'Gourmet Foods International', '38 Fairfield Place', 'West Caldwell', 'NJ', '07006', '973-487-3980', 'info@gfifoods.com'),
+('P005', 'Cipriani', '376 West Broadway', 'New York', 'NY', '10012', '212-343-0999', 'downtown@cipriani.com'),
 ('P006', 'Murray¡¯s Cheese', '254 Bleecker St', 'New York', 'NY', '10014', '212-243-3289', 'orders@murrayscheese.com');
 
 
@@ -30,10 +30,21 @@ VALUES
 ('P001', 'ME12B', 'Cavaillon Melons', 19.99, 'each', 'https://cdn-endpoint-website.azureedge.net/uploads/PhotoModel/22723/image/me12b1.product-card.jpg?t=1713988210'),
 ('P001', 'SPSPICE99V', 'Sel Rose Pink Curing Salt', 4.99, 'each', 'https://cdn-endpoint-website.azureedge.net/uploads/PhotoModel/14970/image/spspice99v.product-card.jpg?t=1713990356'),
 ('P001', 'GRA9', 'Champagne Grapes', 39.99, 'case', 'https://cdn-endpoint-website.azureedge.net/uploads/PhotoModel/9317/image/gra9.product-card.jpg?t=1722945636'),
+('P002', 'FDUPA008', 'D''Artagnan Rohan Duck, Whole', 56.99, 'each', 'https://www.dartagnan.com/dw/image/v2/BJQL_PRD/on/demandware.static/-/Sites-dartagnan-live-catalog-en/default/dwa2bfad52/images/products/FDUPA006-1.jpg?sw=635&strip=false'),
+('P002', 'FDUFG002', 'Hudson Valley Grade-A Duck Foie Gras', 149.99, 'lobe', 'https://www.dartagnan.com/dw/image/v2/BJQL_PRD/on/demandware.static/-/Sites-dartagnan-live-catalog-en/default/dw1050a415/images/products/FoieGras_WholeLobe_PDP2.jpg?sw=635&strip=false'),
+('P002', 'GAMQUA007', 'Semi-Boneless Quail', 31.99, '4ea', 'https://www.dartagnan.com/dw/image/v2/BJQL_PRD/on/demandware.static/-/Sites-dartagnan-live-catalog-en/default/dwec6300c6/images/products/FQUMA004-1_PDP1.jpg?sw=635&strip=false'),
 ('P003', 'BB170', 'Grand Reserve / 80% Unsalted Butter Prints', 49.99, 'case', 'https://www.chefswarehouse.com/siteassets/pim-images/butter/bb170_0.jpg'),
 ('P003', 'DM110', 'Cream-O-Land / Whole Milk Gallon', 49.99, 'case', 'https://www.chefswarehouse.com/siteassets/pim-images/milk-cream/dm110_0.jpg'),
 ('P003', 'DM116', 'Grand Reserve / 40% Heavy Cream', 39.99, 'case', 'https://www.chefswarehouse.com/siteassets/pim-images/milk-cream/dm116_0.jpg'),
-
+('P004', '7290', 'Pure Saffron', 39.99, '1/1oz', 'https://www.gfifoods.com/media/catalog/product/cache/ea731b03951ff39bad0cb0d9b1c0aab7/s/a/saffron_beauty_2.jpg'),
+('P004', '10010', 'Madagascar Bourbon Vanilla Bean Paste Vegan Kosher', 29.99, '1/32oz', 'https://www.gfifoods.com/media/catalog/product/cache/ea731b03951ff39bad0cb0d9b1c0aab7/c/e/center20front_20210825_1519438_zizl3e7qqtykn6yg.jpg'),
+('P004', '614011', 'Espelette Pepper Powder PDO', 49.99, '1/1.58oz', 'https://www.gfifoods.com/media/catalog/product/cache/ea731b03951ff39bad0cb0d9b1c0aab7/6/1/6146120pic20espellette_jar_20210315_0942589_8dbjgufr9jylmifb.jpg'),
+('P005', '3053', 'Red Wine Vinegar', 15.50, '500ml', 'https://ciprianifood.com/media/catalog/product/cache/8101243140f76dbfe2f3e91f55026b96/c/i/ciprianifood_vinegar_1.jpg'),
+('P005', '3090', 'Cipriani Pomod''oro', 6.00, '340g', 'https://ciprianifood.com/media/catalog/product/cache/8101243140f76dbfe2f3e91f55026b96/c/i/ciprianifood_pomodoro_label_1_1.jpg'),
+('P005', '2436', 'Extra Virgin Olive Oil', 29.00, '500ml', 'https://ciprianifood.com/media/catalog/product/cache/8101243140f76dbfe2f3e91f55026b96/c/i/ciprianifood_evoil_1.jpg'),
+('P006', 'BUR1', 'Murray''s Burrata', 12.00, '2/4oz', 'https://murrayscheese.imgix.net/i2b4juvwgl8trbwcyyr1cffdiuu4?ixlib=rails-4.3.1&auto=format&fit=max&w=576&q=80'),
+('P006', 'FET1', 'Murray''s Feta Cup', 10.50, '1/7oz', 'https://murrayscheese.imgix.net/z7j3fg6ugpf98rtrrq7il7z6zxmv?ixlib=rails-4.3.1&auto=format&fit=max&w=576&q=80'),
+('P006', 'PEC4', 'Pecorino Calabrese', 21.00, '1lb', 'https://murrayscheese.imgix.net/o8z5yshbk6a3xw5e9482ffaq569b?ixlib=rails-4.3.1&auto=format&fit=max&w=576&q=80');
 
 
 
