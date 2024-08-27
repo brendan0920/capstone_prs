@@ -1,15 +1,24 @@
-USE capstone_prs;
-GO
+--USE capstone_prs;
+--GO
+
+----PRS product - vendor JOIN
+--SELECT *
+--	FROM Product;
+
+
+
+
+
 
 
 -- Insert into the user table
-INSERT INTO [User] (username, firstName, lastName, phoneNumber, email, reviewer, admin)
+INSERT INTO [User] (username, password, firstName, lastName, phoneNumber, email, reviewer, admin)
 VALUES 
-('bkeam', 'Brendan', 'Keam', '917-624-6069', 'brdk1220@gmail.com', 1, 1),
-('mdamon', 'Matt', 'Damon', '202-456-8975', 'mdamon@gmail.com', 0, 0),
-('cbale', 'Christian', 'Bale', '202-547-7783', 'cbale@gmail.com', 0, 0),
-('baffleck', 'Ben', 'Affleck', '917-554-8521', 'baffleck@gmail.com', 0, 0),
-('Rmcadams', 'Rachel', 'McAdams', '917-889-6325', 'rmcadams@gmail.com', 0, 0);
+('bkeam', 'bk1234', 'Brendan', 'Keam', '917-624-6069', 'brdk1220@gmail.com', 1, 1),
+('mdamon', 'md1234', 'Matt', 'Damon', '202-456-8975', 'mdamon@gmail.com', 0, 0),
+('cbale', 'cb1234', 'Christian', 'Bale', '202-547-7783', 'cbale@gmail.com', 0, 0),
+('baffleck', 'bf1234', 'Ben', 'Affleck', '917-554-8521', 'baffleck@gmail.com', 0, 0),
+('Rmcadams', 'rm1234', 'Rachel', 'McAdams', '917-889-6325', 'rmcadams@gmail.com', 0, 0);
 
 
 
@@ -47,10 +56,10 @@ VALUES
 ('P006', 'PEC4', 'Pecorino Calabrese', 21.00, '1lb', 'https://murrayscheese.imgix.net/o8z5yshbk6a3xw5e9482ffaq569b?ixlib=rails-4.3.1&auto=format&fit=max&w=576&q=80');
 
 
-INSERT INTO Request (userId, description, justification, dateNeeded, deliveryMode, status, total, submittedDate, reasonForRejection)
-VALUES
+--INSERT INTO Request (userId, description, justification, dateNeeded, deliveryMode, status, total, submittedDate, reasonForRejection)
+--VALUES
 
 
 
-INSERT INTO LineItem (requestId, productId, quantity)
-VALUES
+--INSERT INTO LineItem (requestId, productId, quantity)
+--VALUES
