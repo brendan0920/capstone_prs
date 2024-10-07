@@ -45,7 +45,7 @@ CREATE TABLE Product (
 	vendorId		int				NOT NULL,
 	partNumber		varchar(50)		NOT NULL,
 	name			varchar(150)	NOT NULL,
-	price			float			NOT NULL,
+	price			decimal			NOT NULL,
 	unit			varchar(255)	NULL,
 	photoPath		varchar(255)	NULL,
 	FOREIGN KEY (vendorId) REFERENCES Vendor(id),
@@ -56,12 +56,13 @@ CREATE TABLE Product (
 CREATE TABLE Request (
 	id					int				PRIMARY KEY IDENTITY(1,1),
 	userId				int				NOT NULL,
+	requestNumber		varchar(11)		NOT NULL,
 	description			varchar(100)	NOT NULL,
 	justification		varchar(225)	NOT NULL,
 	dateNeeded			date			NULL,
 	deliveryMode		varchar(25)		NOT NULL,
 	status				varchar(20)		NOT NULL DEFAULT 'New',
-	total				float			NOT NULL,
+	total				decimal			NOT NULL,
 	submittedDate		datetime		NOT NULL DEFAULT current_timestamp,
 	reasonForRejection	varchar(100)	NULL,
 	FOREIGN KEY (userId) REFERENCES [User](id)	

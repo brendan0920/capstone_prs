@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|c:\\users\\max-student\\documents\\brendanbootcampfolder\\repos\\c-sharp\\c-sharp-class-demo\\prsconsole\\prsconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|solutionrelative:prsconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|c:\\users\\max-student\\documents\\brendanbootcampfolder\\repos\\c-sharp\\c-sharp-class-demo\\prsconsole\\prsconsole\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|solutionrelative:prsconsole\\db\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|c:\\users\\max-student\\documents\\brendanbootcampfolder\\repos\\c-sharp\\c-sharp-class-demo\\prsconsole\\prsconsole\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|solutionrelative:prsconsole\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|c:\\users\\max-student\\documents\\brendanbootcampfolder\\repos\\c-sharp\\c-sharp-class-demo\\prsconsole\\prsconsole\\db\\vendordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|solutionrelative:prsconsole\\db\\vendordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|c:\\users\\max-student\\documents\\brendanbootcampfolder\\repos\\c-sharp\\c-sharp-class-demo\\prsconsole\\prsconsole\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B54C22-73D4-4419-91BD-2F2880A07C99}|PrsConsole\\PrsConsole.csproj|solutionrelative:prsconsole\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PrsConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Program.cs",
+              "RelativeToolTip": "PrsConsole\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:24:12.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "PrsConsole\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Models\\Vendor.cs",
+              "RelativeToolTip": "PrsConsole\\Models\\Vendor.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:23:01.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendorDb.cs",
+              "DocumentMoniker": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Db\\VendorDb.cs",
+              "RelativeDocumentMoniker": "PrsConsole\\Db\\VendorDb.cs",
+              "ToolTip": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Db\\VendorDb.cs",
+              "RelativeToolTip": "PrsConsole\\Db\\VendorDb.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:20:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PrsConsole\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Models\\User.cs",
+              "RelativeToolTip": "PrsConsole\\Models\\User.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:06:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDb.cs",
+              "DocumentMoniker": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Db\\UserDb.cs",
+              "RelativeDocumentMoniker": "PrsConsole\\Db\\UserDb.cs",
+              "ToolTip": "C:\\Users\\max-student\\Documents\\BrendanBootcampFolder\\repos\\c-sharp\\c-sharp-class-demo\\PrsConsole\\PrsConsole\\Db\\UserDb.cs",
+              "RelativeToolTip": "PrsConsole\\Db\\UserDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:05:16.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
